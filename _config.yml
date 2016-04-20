@@ -1,15 +1,7 @@
-layout_spectrum: 0.57814
-favicon: null
 name: davidspriggs
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.57814
+typography_spectrum: 0.47489
 collections:
   - index:
       navigable: true
@@ -23,17 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#000000'
+    - '#4e4e4e'
+    - '#6b6b6b'
+    - '#8f8f8f'
+    - '#dfdfdf'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
-  brandColors:
-    - '#161517'
-    - '#706C6E'
-    - '#3A3839'
-    - '#E9DED9'
-typography_spectrum: 0.47489
+purpose: []
